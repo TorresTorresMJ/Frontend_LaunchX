@@ -1,0 +1,8 @@
+https://miro.com/welcomeonboard/Z1FQVTFRWjZLR05hakhsb0pkSGVrVVdXcVowSlJiZHc1NHA5STV1bjEwTnhGNW13elB4QmVCdmxJUkE5R1VlTHwzNDU4NzY0NTE5OTU5NzM1Mjk1?invite_link_id=801461866834
+
+from PIL import Image
+
+# creating a object
+im = Image.open('TargetAudience_Abogabot.jpg')
+  
+im.show()
